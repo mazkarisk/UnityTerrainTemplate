@@ -1,3 +1,5 @@
+![草が5種類並んだサンプル画像](sample.jpg)
+
 # 説明
 
 UnityのHDRP向けの、Terrainで使用できる草アセット群です。
